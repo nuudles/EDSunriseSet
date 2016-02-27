@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		308472001C8102D200C4E8E9 /* EDSunriseSetFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 308471FF1C8102D200C4E8E9 /* EDSunriseSetFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		308472051C8102E500C4E8E9 /* EDSunriseSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 94115C111B7BFFA100E51121 /* EDSunriseSet.m */; };
 		308472061C8103EB00C4E8E9 /* EDSunriseSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 94115C101B7BFFA100E51121 /* EDSunriseSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		308472111C81FBD800C4E8E9 /* EDSunriseSetFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 308471FF1C8102D200C4E8E9 /* EDSunriseSetFramework.h */; };
 		94115BF11B7BFBFA00E51121 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94115BF01B7BFBFA00E51121 /* AppDelegate.m */; };
 		94115BF31B7BFBFA00E51121 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 94115BF21B7BFBFA00E51121 /* main.m */; };
 		94115BF61B7BFBFA00E51121 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94115BF51B7BFBFA00E51121 /* ViewController.m */; };
@@ -153,7 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				308472061C8103EB00C4E8E9 /* EDSunriseSet.h in Headers */,
-				308472001C8102D200C4E8E9 /* EDSunriseSetFramework.h in Headers */,
+				308472111C81FBD800C4E8E9 /* EDSunriseSetFramework.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
